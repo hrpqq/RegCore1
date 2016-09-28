@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\NFA_DFA_Builder\NFA_DFA_Builder\bin\Debug\NFA_DFA_Builder.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NFA_DFA_Builder\NFA_DFA_Builder\bin\Debug\NFA_DFA_Builder.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NFA_DFA_Builder\NFA_DFA_Builder\bin\Debug\NFA_DFA_Builder.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NFA_DFA_Builder\NFA_DFA_Builder\obj\Debug\NFA_DFA_Builder.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NFA_DFA_Builder\NFA_DFA_Builder\obj\Debug\NFA_DFA_Builder.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NFA_DFA_Builder\NFA_DFA_Builder\obj\Debug\NFA_DFA_Builder.pdb
+C:\Users\Administrator\Desktop\NFA_DFA_Builder\NFA_DFA_Builder\bin\Debug\NFA_DFA_Builder.exe.config
+C:\Users\Administrator\Desktop\NFA_DFA_Builder\NFA_DFA_Builder\obj\Debug\NFA_DFA_Builder.exe
+C:\Users\Administrator\Desktop\NFA_DFA_Builder\NFA_DFA_Builder\obj\Debug\NFA_DFA_Builder.pdb
